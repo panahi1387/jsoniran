@@ -1,6 +1,8 @@
 {
+  "appName": "مافیا دات",
+  "packageName": "com.mafdot",
   "versionCode": 2,
   "versionName": "1.0",
-  "message": "نسخه جدید برنامه منتشر شد!",
-  "download": "https://example.com/app.apk"
+  "message": "نسخه جدید مافیا دات منتشر شد!",
+  "download": "لینک مستقیم دانلود APK"
 }
